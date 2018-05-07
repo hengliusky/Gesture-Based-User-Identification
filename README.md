@@ -4,7 +4,6 @@
 * **Source data introduction**
 * **Training and verification set**
 * **The proposed Bi-GRU based biometrics framework**
-* **Experiment details**
 
 ## 1 Source data introduction #
 <br>In this experiment, we used Microsoft Kinect v2 sensor for data acquisition. We used VS2013 and Kinect SDK v2 to develop a data acquisition program that can simultaneously capture color image data, depth image data, and human body 25 joint data in the scene.In this paper, we mainly use human body joint data. We designed three types of dynamic gestures: right hand drawing 'O', left hand drawing 'V' and both hand 'Clapping'. 60 volunteers were invited to participate in the collection of data sets. Each individual was asked to draw three types of gestures in 'O', 'V', 'Clapping' order 20 times. The relevant data sets we provide are in the '*./SkeletonData*' folder, and the specific data storage format is as follows:</br>
