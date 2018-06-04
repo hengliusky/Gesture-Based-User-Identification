@@ -1,6 +1,6 @@
 # Paper: Are mid-air dynamic gestures applicable to user identification?
-<br>  This project mainly provides the source codes and data sets for our paper：H. Liu et al., Are mid-air dynamic gestures applicable to user identification? Pattern Recognition Letters (2018), https://doi.org/10.1016/j.patrec.2018.04.026.  </br>
-<br>  We will briefly introduce the role of each document from the following directions so that readers can replicate our experiments.</br>
+<br>  This project mainly provides the source codes and data sets for our paper：H. Liu et al., Are mid-air dynamic gestures applicable to user identification? Pattern Recognition Letters (2018), https://doi.org/10.1016/j.patrec.2018.04.026.  In addition, we also provide a real-time user identification system based on gestures by using DTW(Dynamic Time Warping) algorithm. Specific details and code please refer to the file 'Gesture_Based_UserIdentification_System.zip'.</br>
+<br>  Here we mainly introduce the role of each document from the following directions so that readers can replicate our experiments.</br>
 * **Source data introduction**
 * **Training and verification set**
 * **The proposed Bi-GRU based biometrics framework**
